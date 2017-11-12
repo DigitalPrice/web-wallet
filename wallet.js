@@ -94,6 +94,7 @@ function databaseConnect(){
         }
     });
 }
+
 databaseConnect();
 
 // Localizations for EJS rendering [MUST COME AFTER DB FUNCTIONS AND BEFORE AUTH ROUTES]
